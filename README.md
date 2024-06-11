@@ -1,5 +1,5 @@
 # Problema de Machine Learning de Classificação: Previsão de Churn para uma Empresa de Telecomunicações
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DaniloTAbreu/Projeto3?tab=MIT-1-ov-file) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DaniloTAbreu/PROJETO7_CHURN/blob/main/LICENSE) 
 
 # Sobre o projeto
 
